@@ -1,4 +1,6 @@
--💻 Data Analytics
+- Hello Word, I`m Evelyn!:)
+-
+- 💻 Analista de Dados
 
 -📚 Investigador.
 
