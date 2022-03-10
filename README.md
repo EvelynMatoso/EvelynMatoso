@@ -1,4 +1,4 @@
--![image](https://user-images.githubusercontent.com/87397864/157559513-6bc6e2e2-e17a-47a8-a704-7fc810ffad7f.png)
+- 🌎 Olá mundo, eu sou a Evelyn!
 
 - 💻 Analista de Dados
 
