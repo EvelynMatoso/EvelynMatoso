@@ -1,6 +1,6 @@
 - 🌎 Olá mundo, eu sou a Evelyn!
 
-- 💻 Analista de Dados
+- 💻 UX/UI Design
 
 - 📚 Investigador.
 
